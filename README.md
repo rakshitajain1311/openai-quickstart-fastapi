@@ -58,7 +58,7 @@ This is an example pet name generator app used in the OpenAI API [quickstart tut
    
 You should now be able to access the app at [http://localhost:5001](http://localhost:5001)! 
 
-This repogitory is based on the Flask code at [openai-quickstart-python](https://github.com/openai/openai-quickstart-python). For the full context behind Flask app, check out the [Flask tutorial](https://beta.openai.com/docs/quickstart).
+This repogitory is based on the Flask code at [openai-quickstart-python](https://github.com/openai/openai-quickstart-python). For the full context behind this example app, check out the [tutorial](https://beta.openai.com/docs/quickstart).
 
 ## Reference
 
